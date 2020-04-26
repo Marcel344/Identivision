@@ -4,3 +4,9 @@ In order for this program to display reuslts, you need photos of people (at leas
 
 
 ![Image of UI](https://github.com/Marcel344/Identivision/blob/master/identivision.png)
+
+## Steps : 
+
+1. pip3 install -r requirements.txt
+2. connect drone (or if you want to use built in webcam skip)
+3. python3 main.py
