@@ -8,5 +8,5 @@ In order for this program to display reuslts, you need photos of people (at leas
 ## Steps : 
 
 1. pip3 install -r requirements.txt
-2. connect drone (or if you want to use built in webcam skip)
+2. connect drone (or if you want to use built in webcam then just press Use camera)
 3. python3 main.py
